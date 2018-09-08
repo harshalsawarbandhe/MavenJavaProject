@@ -14,11 +14,11 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   
-<!--distributionManagement>
+<distributionManagement>
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///home/ubuntu/Releases/</url>
+         <url>file:///var/lib/Releases/</url>
        </repository>
    </distributionManagement-->
 <!--distributionManagement>
