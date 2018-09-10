@@ -20,7 +20,7 @@
          <name>Internal repo</name>
          <url>file:///var/lib/Releases/</url>
        </repository>
-   </distributionManagement-->
+   </distributionManagement>
 <!--distributionManagement>
   <repository>
     <id>nexus-releases</id>
